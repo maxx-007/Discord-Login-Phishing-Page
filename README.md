@@ -44,5 +44,10 @@ This project is licensed under the MIT License.
 
 # Disclaimer
 
-This project is for educational purposes only and is not affiliated with Discord.
+This project is a **fan-made clone** of the Discord login page and is **for educational purposes only**. It is **not affiliated with, endorsed by, or connected to Discord** or its parent company. 
+
+All trademarks, logos, and brand names are the property of their respective owners. The use of these trademarks, logos, or brand names is for identification purposes only and does not imply endorsement by Discord or any of its subsidiaries.
+
+By using this project, you agree that it is provided "as is" without any warranties of any kind, either expressed or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use of other dealings in the software.
+
 
